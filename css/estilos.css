@@ -2,12 +2,14 @@ body{
     text-align: center;
     font-family: arial;
     color:#333;
+    background: #000;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 #container
 {
+    background: #fff;
     width: 70%;
     padding: 1em;
     text-align: left;
